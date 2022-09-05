@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego!
 
 
-- 🌱 Atualmente estou aprendendo as linguagens de programação Java Script e Python.
+- 🌱 Atualmente estou aprendendo as linguagens de programação Java Script e Python. Visando aprender CSS e HTML.
 - 💬 Planos para cursar Sistemas da Informação.
 - 😄 Pronomes: ele/dele.
 
