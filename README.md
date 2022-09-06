@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diego!
 
-- 🌱 Atualmente estou começando no mundo da programação, dando meus primeiros passos em Java Script, CSS e HTML!
+- 🌱 Atualmente estou começando no mundo da programação, realizando meus primeiros passos em Java Script, CSS e HTML!
 - 💬 Planos para cursar Sistemas da Informação.
 - 😄 Pronomes: ele/dele.
 
